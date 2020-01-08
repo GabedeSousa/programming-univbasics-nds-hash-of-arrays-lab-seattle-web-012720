@@ -12,7 +12,7 @@ def add_character(show, name)
   
   end
   
-  filter_parameter_logging
+  
   
   
   
